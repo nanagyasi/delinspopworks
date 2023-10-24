@@ -10,13 +10,13 @@ a {
 
 .content-banner {
     color: #ffffff;
-    background-image: url(/img/banner.jpeg);
+    background-image: url(/img/banner.JPEG);
     min-height: 100vh;
     height: 100%;
     position: relative;
     background-position: center center;
     background-size: cover;
-    padding-top: 125px;
+    padding-top: 225px;
 }
 
 .content-banner:before {
@@ -24,7 +24,7 @@ a {
     content: '';
     width: 100%;
     height: 100%;
-    background-color: rgba(3, 10, 114, 0.747);
+    background-color: rgba(3, 10, 114, 0.347);
     top: 0;
     left: 0;
     z-index: 1;
